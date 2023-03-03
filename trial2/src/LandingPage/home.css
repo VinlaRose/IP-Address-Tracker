@@ -2,6 +2,9 @@
 .bg{
     width: 100%;
 }
+.entireContainer{
+    height: 700px;
+}
 
 .container {
     position: relative;
